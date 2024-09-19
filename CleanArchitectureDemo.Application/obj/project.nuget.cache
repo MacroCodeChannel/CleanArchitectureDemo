@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCjDr7vj2VJm/JRzw0qB7BQFv8lxHlf5q+HV/6gU/uH0CgslIQeXdOsQLmhOg8QM9AA/VIuw58Y8UGd5wzXhzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Content Creation\\.NET Core Projects\\CleanArchitectureDemo\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obadi\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\obadi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
